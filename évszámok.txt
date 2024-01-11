@@ -1,0 +1,15 @@
+1750;Gőzgép;A gőzgép James Watt-tól származik, és forradalmasította az ipari termelést. A gép használta a gőzt, hogy mozgásba hozza a mechanizmusokat, és számos területen alkalmazták, beleértve a textilipart és a szállítást.
+1750;Textilgyártó gép;Az ipari forradalom egyik meghatározó találmánya a textilgyártó gép, amely lehetővé tette a hatékonyabb és gyorsabb textilgyártást.
+1750;Vízimalom;A vízimalom az energiatermelés egyik korai formája volt, amelyet a folyók és patakok erejével működtettek.
+1750;Gőzhajó;A gőzhajók forradalmasították a tengeri és folyami közlekedést, lehetővé téve gyorsabb és hatékonyabb áruszállítást.
+1750;Gőzvasút;A gőzvasút elősegítette az emberek és áruk gyorsabb mozgását, hozzájárulva a közlekedés fejlődéséhez.
+1800;Elektromos lámpa;Az elektromos lámpa az elektromos áram használatával világított, és alapvetően megváltoztatta az éjszakai megvilágítást és az életkörülményeket.
+1800;Tűzoltó-spriccelő;A tűzoltó-spriccelő egy hatékony eszköz, amelyet tűzoltók használnak tűzesetek oltására. A vízsugár nyomása és iránya szabályozható, így hatékonyan kezelhető vele a tűz.
+1800;Fotográfia;A fotográfia megalkotása forradalmasította a képek rögzítését és megőrzését, hozzájárulva a vizuális dokumentáció fejlődéséhez.
+1800;Gőzlokomotív;A gőzlokomotívok segítettek a vasúti közlekedés terjeszkedésében, megkönnyítve az emberek és áruk gyorsabb szállítását.
+1800;Villamos energia;A villamos energia térhódítása lehetővé tette a távoli területek elektromos árammal való ellátását, hozzájárulva az ipar és a mindennapi élet fejlődéséhez.
+1850;Szabványosított vasúti sín;Az 1850-es években bevezetett szabványosított vasúti sín forradalmasította a vasúti közlekedést. Ez az egységes méret lehetővé tette a sínek cseréjét és az intermodális szállítást, hozzájárulva a gazdasági fejlődéshez.
+1850;Telefon;A telefon Alexander Graham Bell-nek köszönhetően vált elterjedt kommunikációs eszközzé, és megváltoztatta az emberek közötti távolsági kommunikációt.
+1850;Fényképezőgép;Az egyszerűbb kezelhetőségű fényképezőgépek szélesebb körben tették lehetővé a fényképezési lehetőségeket az emberek számára.
+1850;Gumiköpeny;Az elasztikus gumiköpenyek széles körben elterjedtek, védelmet nyújtva az eső és a nedves körülmények ellen.
+1850;Szennyvíztisztítás;Az innovatív szennyvíztisztítási rendszerek javították a vízminőséget és hozzájárultak a közegészségügyi körülmények javulásához.
